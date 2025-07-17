@@ -74,4 +74,7 @@ To empower stakeholders with a unified analytics view to:
 
 ## 6. Screenshots / Demos
 
-[_(Add your dashboard screenshot or demo video link here)_](https://github.com/shashireddyt8/Yearly-Sales-of-Plants/blob/main/Dashboard_Screenshot_Sales%20Analysis.png)
+## 6. Screenshots / Demos
+
+![Dashboard Screenshot](https://github.com/shashireddyt8/Yearly-Sales-of-Plants/blob/main/Dashboard_Screenshot_Sales%20Analysis.png?raw=true)
+
