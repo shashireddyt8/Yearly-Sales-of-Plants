@@ -1,4 +1,4 @@
-# 🌿 Plant Sales Analysis Dashboard: 2023–2025 Growth & Profitability Insights
+# 🌿 Plant Sales Analysis Dashboard: 2022–2024 Growth & Profitability Insights
 
 ## 1. Short Description / Purpose
 
@@ -16,7 +16,7 @@ This dashboard was built using the following tools and technologies:
 
 ## 3. Data Source
 
-**Internal Plant Sales Dataset** collected across global regions between 2023 and 2025.
+**Internal Plant Sales Dataset** collected across global regions between 2022 and 2024.
 
 Structured data includes:
 
@@ -75,4 +75,3 @@ To empower stakeholders with a unified analytics view to:
 ## 6. Screenshots / Demos
 
 ![Dashboard Screenshot](https://github.com/shashireddyt8/Yearly-Sales-of-Plants/blob/main/Dashboard_Screenshot_Sales%20Analysis.png?raw=true)
-
